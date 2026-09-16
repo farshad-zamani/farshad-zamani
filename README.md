@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://cloudtart.com"><img alt="Website" src="https://img.shields.io/badge/cloudtart.com-0d1b2e?style=for-the-badge&logo=googlechrome&logoColor=d6b9a8"></a>
-  <a href="https://www.linkedin.com/company/cloudtart/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1b2e?style=for-the-badge&logo=linkedin&logoColor=d6b9a8"></a>
+  <a href="https://www.linkedin.com/in/farshad-zamani92/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1b2e?style=for-the-badge&logo=linkedin&logoColor=d6b9a8"></a>
   <a href="https://instagram.com/cloudtart_com"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0d1b2e?style=for-the-badge&logo=instagram&logoColor=d6b9a8"></a>
 </p>
 
