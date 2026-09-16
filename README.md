@@ -32,9 +32,9 @@ My own work at the studio spans development and architecture across that whole r
 
 ## Selected work
 
-- **[Cloudict](https://github.com/farshad-zamani/cloudict)** — free voice typing for Windows: type by voice into any app, in many languages, with voice commands. Bilingual EN/FA. C# / WPF. *(open source)*
-- **Mehr Soheila Registry** — a medical-domain web platform for patient information and user-data management; under active development and long-term support
-- **Financial-markets assistant software** — trading-desk tools for forex and other markets
+- **[Cloudict](https://github.com/farshad-zamani/cloudict)** — free voice typing for Windows/MacOs/Linux: type by voice into any app, in many languages, with voice commands. Bilingual EN/FA. C# / WPF. *(open source)*
+- **Mehr-e-Soheila Registry** — a medical-domain web platform for patient information and user-data management; under active development and long-term support
+- **Financial-markets assistant software** (Windows App) — trading-desk tools for forex and other markets
 - **Gaming tools** — purpose-built software for Grand Theft Auto V
 - **Industrial process-digitalisation platform** — form builder, submissions, automation via n8n, live reporting (Vue 3 · FastAPI · PostgreSQL)
 - **WordPress plugins** — CRM and sales management, WordPress/WooCommerce experience improvements, and the studio's client-support plugin
@@ -75,9 +75,9 @@ For projects, collaboration, or anything else: **[cloudtart.com/contact](https:/
 
 ## دربارهٔ کلادتارت
 
-کلادتارت استودیوی نرم‌افزار و معماری دیجیتال در کرج است، با مشتریانی در ایران و خارج از آن. این مجموعه در ابتدا با نام **مایندلاین** شروع به کار کرد، با ری‌برندینگ به نام کلادتارت تغییر کرد، و همراه با تیمش به جایی رسیده که کارش دیگر فقط وب‌سایت نیست: نرم‌افزار برای بازارهای مالی و حوزهٔ گیم، پلتفرم‌های دادهٔ پزشکی، اتوماسیون و سیستمی‌سازی کسب‌وکارها، و مجموعه‌ای از پلاگین‌ها و ابزارهای داخلی.
+کلادتارت آژانس دیجیتال مارکتینگ و سئو با امکان ساخت انواع نرم‌افزار و انواع معماری در حوزه دیجیتال واقع در کرج است، با مشتریانی در ایران و خارج از آن. این مجموعه در ابتدا با نام **مایندلاین** شروع کردم و با ری‌برندینگ به نام کلادتارت تغییر کرد، و همراه با تیمی حرفه ای که به آن ملحق شد به جایی رسیده که کارش دیگر فقط وب‌سایت نیست: نرم‌افزار برای بازارهای مالی و حوزهٔ گیم، پلتفرم‌های دادهٔ پزشکی، اتوماسیون و سیستمی‌سازی کسب‌وکارها، و مجموعه‌ای از پلاگین‌ها و ابزارهای داخلی... برای هر نیازی که احساس میکنید چیزی را باید بهتر کنید آمادگی ساخت دارد.
 
-کار من در استودیو در همین گستره است — از پلاگین وردپرس و نرم‌افزار ویندوزی تا اپلیکیشن تحت وب و خطوط اتوماسیون — با این اصل که استک هر پروژه بر اساس نیاز همان پروژه انتخاب شود.
+کار من در آژانس دیجیتال مارکتینگ کلادتارت به عنوان هم‌بنیانگذارش در همین گستره است — از پلاگین وردپرس و نرم‌افزار ویندوزی تا اپلیکیشن تحت وب و خطوط اتوماسیون — با این اصل که استک هر پروژه بر اساس نیاز همان پروژه انتخاب شود.
 
 **زمینه‌های کاری:** نرم‌افزار اختصاصی و اپلیکیشن تحت وب با هر استک · راه‌حل‌های هوش مصنوعی، اتوماسیون و سیستمی‌سازی · وب‌سایت به هر زبان و فریم‌ورک (وردپرس یکی از گزینه‌هاست، نه پیش‌فرض) · سئوی فنی، محلی و GEO · پلاگین‌های مدیریت فروش و CRM، بهبود تجربهٔ وردپرس و ووکامرس، و پلاگین پشتیبانی اختصاصی مشتریان · هویت بصری برند
 
