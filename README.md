@@ -1,8 +1,8 @@
 <h1 align="center">Farshad Zamani</h1>
 
 <p align="center">
-  <strong>Founder of <a href="https://cloudtart.com">CloudTart</a> · Web architect &amp; full-stack developer</strong><br>
-  Premium multilingual websites, technical SEO, and business automation — built to rank, convert, and last.
+  <strong>Founder of <a href="https://cloudtart.com">CloudTart</a> · Software developer &amp; digital architect</strong><br>
+  Custom software, AI-driven automation, and websites in any stack — built to rank, convert, and keep working long after launch.
 </p>
 
 <p align="center">
@@ -15,49 +15,47 @@
 
 ## About
 
-I run **[CloudTart](https://cloudtart.com)**, a web design and digital-architecture studio based in Karaj, Iran, working with clients across Iran and internationally. The studio's tagline is *"Beyond Code, The Art of Digital Architecture"* — and that is genuinely how I approach a website: not as pages, but as a system that has to earn its keep in search, in conversion, and in the years after launch.
+CloudTart began as my one-person studio. It has grown into what it is today together with my co-founder, and the work now reaches well beyond websites: software for financial markets and gaming, medical-data platforms, business automation, and a growing set of plugins and internal tools — all shipped under the CloudTart name.
 
-Most of my work sits where design, engineering, and search meet: bespoke WordPress builds that ship in nine languages with full RTL support, SEO that is designed into the information architecture rather than bolted on afterwards, and internal tools that remove repetitive work from a business.
+The studio's tagline is *"Beyond Code, The Art of Digital Architecture"*, and that is the honest description of how I work. A website is a system that has to earn its keep in search and in conversion; a piece of software is a workflow made reliable. I care about the part that lasts.
 
-## What I do
+I have personally written dozens of plugins and applications across several languages — WordPress plugins, Windows desktop software, and web applications — for very different industries. That breadth is deliberate: the right tool for a job is rarely the one you used last time.
 
-- **Bespoke WordPress &amp; headless builds** — custom themes, ACF-driven content models, Gravity Forms integrations, headless WordPress backends for Next.js frontends
-- **Multilingual &amp; RTL-first sites** — Persian/Arabic typography, per-language SEO, geo-aware language detection, translation workflows that don't fall apart at scale
-- **Technical &amp; local SEO** — site architecture built around target keywords, Yoast/Search Console setup, structured data, Core Web Vitals, and Generative Engine Optimisation (GEO) for AI search
-- **Brand identity** — logos, visual systems and brand guidelines that carry through to the web
-- **Automation &amp; internal tools** — process digitalisation, form-driven workflows, n8n pipelines, real-time reporting dashboards
-- **Desktop &amp; accessibility tools** — see [Cloudict](https://github.com/farshad-zamani/cloudict) below
+## What we do
 
-## Featured
+- **Custom software &amp; web applications** — built in whichever stack fits the problem: PHP, Python, C#, TypeScript, Vue, Next.js, and more
+- **AI solutions, automation &amp; systemisation** — turning repetitive, manual work into pipelines and dashboards; n8n workflows, form-driven processes, real-time reporting
+- **Websites in any language or framework** — bespoke builds, multilingual and RTL-first, with per-language SEO designed into the architecture. WordPress is one option among several, not the default
+- **Technical, local &amp; generative-engine SEO** — keyword-led site structure, structured data, Core Web Vitals, and GEO for AI search
+- **Plugins &amp; extensions** — sales management and CRM inside WordPress, WooCommerce and WordPress experience improvements, and a dedicated client-support plugin CloudTart uses to support its own customers
+- **Brand identity** — logos, visual systems, and guidelines that carry through to the product
 
-### [Cloudict](https://github.com/farshad-zamani/cloudict) — free voice typing for Windows
-Type by voice into *any* application, in many languages, with voice commands — powered by Google's speech recognition and completely free. Bilingual English/Persian UI, built with C# / WPF.
-`c#` `wpf` `speech-to-text` `accessibility` `persian`
+## Selected work
 
-### [CloudTart](https://cloudtart.com) — the studio site
-A nine-language WordPress build with full RTL, a bespoke navy-and-gold design system, GEO-aware language suggestion, stream-only media, and multi-step client-intake forms — every part of it hand-built rather than page-builder assembled.
-
-## Currently building
-
-- An industrial **process-digitalisation platform** — form builder, submissions, automation via n8n, real-time reporting (Vue 3 · FastAPI · PostgreSQL)
-- A Persian-first **Instagram automation suite** on Meta's official Instagram Platform API (TypeScript)
-- Ongoing client work in multilingual WordPress and headless architectures
+- **[Cloudict](https://github.com/farshad-zamani/cloudict)** — free voice typing for Windows: type by voice into any app, in many languages, with voice commands. Bilingual EN/FA. C# / WPF. *(open source)*
+- **Mehr Soheila Registry** — a medical-domain web platform for patient information and user-data management; under active development and long-term support
+- **Financial-markets assistant software** — trading-desk tools for forex and other markets
+- **Gaming tools** — purpose-built software for Grand Theft Auto V
+- **Industrial process-digitalisation platform** — form builder, submissions, automation via n8n, live reporting (Vue 3 · FastAPI · PostgreSQL)
+- **WordPress plugins** — CRM and sales management, WordPress/WooCommerce experience improvements, and CloudTart's own client-support plugin
+- **[CloudTart](https://cloudtart.com)** — the studio site: nine languages, full RTL, a bespoke navy-and-gold design system, GEO-aware language suggestion, and multi-step client-intake forms, all hand-built
+- Plus smaller pieces: social-media automation tooling, headless CMS backends for Next.js frontends, and internal utilities
 
 ## Stack
 
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img alt="Vue 3" src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
+  <img alt="WooCommerce" src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white">
   <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
-  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black">
 </p>
 
 ## GitHub
@@ -69,7 +67,7 @@ A nine-language WordPress build with full RTL, a bespoke navy-and-gold design sy
 
 ## Get in touch
 
-The fastest route is the **[consultation request](https://cloudtart.com/work-with-us/)** on the studio site — it takes about four minutes and tells me enough to reply with something useful rather than a generic quote. For everything else: [cloudtart.com/contact](https://cloudtart.com/contact/).
+The fastest route is the **[consultation request](https://cloudtart.com/work-with-us/)** on the studio site — about four minutes, and it tells me enough to reply with something useful rather than a generic quote. For everything else: [cloudtart.com/contact](https://cloudtart.com/contact/).
 
 ---
 
@@ -77,9 +75,13 @@ The fastest route is the **[consultation request](https://cloudtart.com/work-wit
 
 ## دربارهٔ من
 
-مدیر و بنیان‌گذار **[کلادتارت](https://cloudtart.com/fa/)** هستم — استودیوی طراحی وب و معماری دیجیتال در کرج، با مشتریانی در ایران و خارج از آن. کار من جایی است که طراحی، مهندسی و سئو به هم می‌رسند: وب‌سایت‌های وردپرسی اختصاصی و چندزبانه با پشتیبانی کامل راست‌چین، سئویی که از همان معماری اطلاعات طراحی می‌شود نه بعد از ساخت، و ابزارهای داخلی که کارهای تکراری را از دوش کسب‌وکار برمی‌دارند.
+کلادتارت را خودم به‌تنهایی شروع کردم و در ادامه، همراه با هم‌بنیان‌گذارم، آن را به جایی رساندیم که امروز هست. کار ما دیگر فقط وب‌سایت نیست: نرم‌افزار برای بازارهای مالی و حوزهٔ گیم، پلتفرم‌های دادهٔ پزشکی، اتوماسیون و سیستمی‌سازی کسب‌وکارها، و مجموعه‌ای از پلاگین‌ها و ابزارهای داخلی — همه زیر نام کلادتارت.
 
-**زمینه‌های کاری:** طراحی و توسعهٔ وردپرس اختصاصی و هدلس · سایت‌های چندزبانه و راست‌چین · سئوی فنی و محلی و بهینه‌سازی برای موتورهای هوش مصنوعی (GEO) · هویت بصری برند · اتوماسیون فرایندها و داشبوردهای گزارش‌گیری
+شخصاً ده‌ها پلاگین و نرم‌افزار در زبان‌های مختلف نوشته‌ام — از پلاگین وردپرس تا نرم‌افزار ویندوزی و اپلیکیشن تحت وب — برای صنایعی کاملاً متفاوت. این تنوع عمدی است: ابزار درست برای هر کار، به‌ندرت همان ابزار قبلی است.
+
+**زمینه‌های کاری:** نرم‌افزار اختصاصی و اپلیکیشن تحت وب با هر استک · راه‌حل‌های هوش مصنوعی، اتوماسیون و سیستمی‌سازی · وب‌سایت به هر زبان و فریم‌ورک (وردپرس یکی از گزینه‌هاست، نه پیش‌فرض) · سئوی فنی، محلی و GEO · پلاگین‌های مدیریت فروش و CRM، بهبود تجربهٔ وردپرس و ووکامرس، و پلاگین پشتیبانی اختصاصی مشتریان کلادتارت · هویت بصری برند
+
+**نمونه‌کارها:** سامانهٔ رجیستری مهر سهیلا (حوزهٔ پزشکی و مدیریت دادهٔ کاربران، در حال توسعه و پشتیبانی) · نرم‌افزارهای دستیار بازار فارکس و بازارهای مالی · ابزارهای اختصاصی بازی GTA V · پلتفرم دیجیتالی‌سازی فرایندهای صنعتی · Cloudict، تایپ صوتی رایگان ویندوز
 
 برای شروع همکاری، **[فرم درخواست مشاوره](https://cloudtart.com/fa/work-with-us/)** را پر کنید — حدود چهار دقیقه وقت می‌گیرد.
 
