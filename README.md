@@ -1,7 +1,7 @@
 <h1 align="center">Farshad Zamani</h1>
 
 <p align="center">
-  <strong>Founder of <a href="https://cloudtart.com">CloudTart</a> · Software developer &amp; digital architect</strong><br>
+  <strong>Software developer &amp; digital architect at <a href="https://cloudtart.com">CloudTart</a></strong><br>
   Custom software, AI-driven automation, and websites in any stack — built to rank, convert, and keep working long after launch.
 </p>
 
@@ -13,21 +13,21 @@
 
 ---
 
-## About
+## About CloudTart
 
-CloudTart began as my one-person studio. It has grown into what it is today together with my co-founder, and the work now reaches well beyond websites: software for financial markets and gaming, medical-data platforms, business automation, and a growing set of plugins and internal tools — all shipped under the CloudTart name.
+CloudTart is a software and digital-architecture studio based in Karaj, Iran, working with clients across Iran and internationally. It started life as **Mindline**, took its current name through a rebrand, and has grown with its team into a studio whose work reaches well beyond websites: software for financial markets and gaming, medical-data platforms, business automation, and a growing set of plugins and internal tools.
 
-The studio's tagline is *"Beyond Code, The Art of Digital Architecture"*, and that is the honest description of how I work. A website is a system that has to earn its keep in search and in conversion; a piece of software is a workflow made reliable. I care about the part that lasts.
+The studio's tagline — *"Beyond Code, The Art of Digital Architecture"* — is a fair description of the approach. A website is a system that has to earn its keep in search and in conversion; a piece of software is a workflow made reliable. The part that lasts is the part that matters.
 
-I have personally written dozens of plugins and applications across several languages — WordPress plugins, Windows desktop software, and web applications — for very different industries. That breadth is deliberate: the right tool for a job is rarely the one you used last time.
+My own work at the studio spans development and architecture across that whole range — from WordPress plugins and Windows desktop software to web applications and automation pipelines — with a preference for choosing the stack that fits the problem rather than the one used last time.
 
 ## What we do
 
-- **Custom software &amp; web applications** — built in whichever stack fits the problem: PHP, Python, C#, TypeScript, Vue, Next.js, and more
+- **Custom software &amp; web applications** — built in whichever stack fits: PHP, Python, C#, TypeScript, Vue, Next.js, and more
 - **AI solutions, automation &amp; systemisation** — turning repetitive, manual work into pipelines and dashboards; n8n workflows, form-driven processes, real-time reporting
 - **Websites in any language or framework** — bespoke builds, multilingual and RTL-first, with per-language SEO designed into the architecture. WordPress is one option among several, not the default
 - **Technical, local &amp; generative-engine SEO** — keyword-led site structure, structured data, Core Web Vitals, and GEO for AI search
-- **Plugins &amp; extensions** — sales management and CRM inside WordPress, WooCommerce and WordPress experience improvements, and a dedicated client-support plugin CloudTart uses to support its own customers
+- **Plugins &amp; extensions** — sales management and CRM inside WordPress, WooCommerce and WordPress experience improvements, and a dedicated client-support plugin used to support the studio's own customers
 - **Brand identity** — logos, visual systems, and guidelines that carry through to the product
 
 ## Selected work
@@ -37,8 +37,8 @@ I have personally written dozens of plugins and applications across several lang
 - **Financial-markets assistant software** — trading-desk tools for forex and other markets
 - **Gaming tools** — purpose-built software for Grand Theft Auto V
 - **Industrial process-digitalisation platform** — form builder, submissions, automation via n8n, live reporting (Vue 3 · FastAPI · PostgreSQL)
-- **WordPress plugins** — CRM and sales management, WordPress/WooCommerce experience improvements, and CloudTart's own client-support plugin
-- **[CloudTart](https://cloudtart.com)** — the studio site: nine languages, full RTL, a bespoke navy-and-gold design system, GEO-aware language suggestion, and multi-step client-intake forms, all hand-built
+- **WordPress plugins** — CRM and sales management, WordPress/WooCommerce experience improvements, and the studio's client-support plugin
+- **[CloudTart](https://cloudtart.com)** — the studio's own site: multilingual with full RTL, a bespoke design system, GEO-aware language suggestion, and hand-built client-intake flows
 - Plus smaller pieces: social-media automation tooling, headless CMS backends for Next.js frontends, and internal utilities
 
 ## Stack
@@ -67,22 +67,22 @@ I have personally written dozens of plugins and applications across several lang
 
 ## Get in touch
 
-The fastest route is the **[consultation request](https://cloudtart.com/work-with-us/)** on the studio site — about four minutes, and it tells me enough to reply with something useful rather than a generic quote. For everything else: [cloudtart.com/contact](https://cloudtart.com/contact/).
+For projects, collaboration, or anything else: **[cloudtart.com/contact](https://cloudtart.com/contact/)**.
 
 ---
 
 <div dir="rtl" align="right">
 
-## دربارهٔ من
+## دربارهٔ کلادتارت
 
-کلادتارت را خودم به‌تنهایی شروع کردم و در ادامه، همراه با هم‌بنیان‌گذارم، آن را به جایی رساندیم که امروز هست. کار ما دیگر فقط وب‌سایت نیست: نرم‌افزار برای بازارهای مالی و حوزهٔ گیم، پلتفرم‌های دادهٔ پزشکی، اتوماسیون و سیستمی‌سازی کسب‌وکارها، و مجموعه‌ای از پلاگین‌ها و ابزارهای داخلی — همه زیر نام کلادتارت.
+کلادتارت استودیوی نرم‌افزار و معماری دیجیتال در کرج است، با مشتریانی در ایران و خارج از آن. این مجموعه در ابتدا با نام **مایندلاین** شروع به کار کرد، با ری‌برندینگ به نام کلادتارت تغییر کرد، و همراه با تیمش به جایی رسیده که کارش دیگر فقط وب‌سایت نیست: نرم‌افزار برای بازارهای مالی و حوزهٔ گیم، پلتفرم‌های دادهٔ پزشکی، اتوماسیون و سیستمی‌سازی کسب‌وکارها، و مجموعه‌ای از پلاگین‌ها و ابزارهای داخلی.
 
-شخصاً ده‌ها پلاگین و نرم‌افزار در زبان‌های مختلف نوشته‌ام — از پلاگین وردپرس تا نرم‌افزار ویندوزی و اپلیکیشن تحت وب — برای صنایعی کاملاً متفاوت. این تنوع عمدی است: ابزار درست برای هر کار، به‌ندرت همان ابزار قبلی است.
+کار من در استودیو در همین گستره است — از پلاگین وردپرس و نرم‌افزار ویندوزی تا اپلیکیشن تحت وب و خطوط اتوماسیون — با این اصل که استک هر پروژه بر اساس نیاز همان پروژه انتخاب شود.
 
-**زمینه‌های کاری:** نرم‌افزار اختصاصی و اپلیکیشن تحت وب با هر استک · راه‌حل‌های هوش مصنوعی، اتوماسیون و سیستمی‌سازی · وب‌سایت به هر زبان و فریم‌ورک (وردپرس یکی از گزینه‌هاست، نه پیش‌فرض) · سئوی فنی، محلی و GEO · پلاگین‌های مدیریت فروش و CRM، بهبود تجربهٔ وردپرس و ووکامرس، و پلاگین پشتیبانی اختصاصی مشتریان کلادتارت · هویت بصری برند
+**زمینه‌های کاری:** نرم‌افزار اختصاصی و اپلیکیشن تحت وب با هر استک · راه‌حل‌های هوش مصنوعی، اتوماسیون و سیستمی‌سازی · وب‌سایت به هر زبان و فریم‌ورک (وردپرس یکی از گزینه‌هاست، نه پیش‌فرض) · سئوی فنی، محلی و GEO · پلاگین‌های مدیریت فروش و CRM، بهبود تجربهٔ وردپرس و ووکامرس، و پلاگین پشتیبانی اختصاصی مشتریان · هویت بصری برند
 
 **نمونه‌کارها:** سامانهٔ رجیستری مهر سهیلا (حوزهٔ پزشکی و مدیریت دادهٔ کاربران، در حال توسعه و پشتیبانی) · نرم‌افزارهای دستیار بازار فارکس و بازارهای مالی · ابزارهای اختصاصی بازی GTA V · پلتفرم دیجیتالی‌سازی فرایندهای صنعتی · Cloudict، تایپ صوتی رایگان ویندوز
 
-برای شروع همکاری، **[فرم درخواست مشاوره](https://cloudtart.com/fa/work-with-us/)** را پر کنید — حدود چهار دقیقه وقت می‌گیرد.
+برای پروژه یا همکاری: **[cloudtart.com/fa/contact](https://cloudtart.com/fa/contact/)**
 
 </div>
